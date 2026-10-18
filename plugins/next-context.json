@@ -1,0 +1,20 @@
+{
+  "name": "next-context",
+  "source": {
+    "source": "github",
+    "repo": "ajwann/next-context"
+  },
+  "description": "Live context-window monitor above the Claude Code prompt: projects turns until auto-compact, shows MCP/tool overhead before your first message, per-turn growth with a sparkline, and user-set warning thresholds. 16 individually configurable items; no network, file access, or API calls.",
+  "version": "0.4.2",
+  "author": {
+    "username": "ajwann",
+    "name": "ajwann"
+  },
+  "category": "productivity",
+  "tags": [
+    "hooks",
+    "context-window",
+    "tokens"
+  ],
+  "license": "MIT"
+}
