@@ -1,0 +1,20 @@
+{
+  "name": "installed-api",
+  "source": {
+    "source": "github",
+    "repo": "ajwann/installed-api"
+  },
+  "description": "MCP server that answers Python and TypeScript API questions from the packages installed in the project: signatures, docstrings, source and versions from the project's own interpreter, and .d.ts declarations from node_modules. Python standard library only; no network requests, writes nothing.",
+  "version": "0.3.2",
+  "author": {
+    "username": "ajwann",
+    "name": "ajwann"
+  },
+  "category": "development",
+  "tags": [
+    "mcp-servers",
+    "python",
+    "typescript"
+  ],
+  "license": "MIT"
+}
